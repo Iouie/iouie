@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stnly.louie@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BV1cOh8wMj-zP-PEnl4uwCgCp0eBmVuY/edit?usp=sharing&ouid=117104462336941831652&rtpof=true&sd=true](https://docs.google.com/document/d/1BV1cOh8wMj-zP-PEnl4uwCgCp0eBmVuY/edit?usp=sharing&ouid=117104462336941831652&rtpof=true&sd=true)
+- 📄Resume [https://docs.google.com/document/d/1BV1cOh8wMj-zP-PEnl4uwCgCp0eBmVuY/edit?usp=sharing&ouid=117104462336941831652&rtpof=true&sd=true](https://docs.google.com/document/d/1BV1cOh8wMj-zP-PEnl4uwCgCp0eBmVuY/edit?usp=sharing&ouid=117104462336941831652&rtpof=true&sd=true)
 
 - ⚡ Fun fact **People call me more by my last name cause I've met so many Stanley's**
 
