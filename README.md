@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend development + react + css frameworks**
 
-- 👨‍💻 All of my projects are available at http://iouie.github.io
+- 👨‍💻 All of my projects are available at (https://stanlouie.netlify.app/)
 
 - 📫 How to reach me **stnly.louie@gmail.com**
 
