@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stnly.louie@gmail.com**
 
-- 📄Resume [https://docs.google.com/document/d/1smVjHhu13FJpBzbGQmArt2a0E93DXn2BWsY0nvfZVFE/edit](https://docs.google.com/document/d/1smVjHhu13FJpBzbGQmArt2a0E93DXn2BWsY0nvfZVFE/edit)
+- 📄Resume [https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view](https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view)
 
 
 <h3 align="left">Connect with me:</h3>
