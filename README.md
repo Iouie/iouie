@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanley Louie</h1>
 <h3 align="center">A software engineer from New York</h3>
 
-- 🌱 I’m currently learning **backend development + three.js**
+- 🌱 I’m currently learning **backend development + three.js and doing Frontend Mentor challenges**
 
 - 👨‍💻 All of my projects are available at https://stanlouie.netlify.app/
 
