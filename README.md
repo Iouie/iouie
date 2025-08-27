@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently a student at Baruch
 
-- 👨‍💻 All of my projects are available at https://stanlouie.netlify.app/
-
 - 📫 How to reach me **stnly.louie@gmail.com**
 
 
