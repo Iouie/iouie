@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stanley Louie</h1>
-<h3 align="center">A software engineer from Brooklyn</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently a student at Baruch
 
 - 👨‍💻 All of my projects are available at https://stanlouie.netlify.app/
 
 - 📫 How to reach me **stnly.louie@gmail.com**
 
-- 📄Resume [https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view](https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
